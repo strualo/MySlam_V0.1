@@ -1,0 +1,5 @@
+<launch>
+
+  <node name="ros_passthrough_node" pkg="ros_passthrough" type="ros_passthrough" respawn="true" output="screen"/>  
+
+</launch>
